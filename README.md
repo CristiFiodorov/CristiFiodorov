@@ -17,7 +17,7 @@
 <br />
 
 [visualstudiocode]: https://code.visualstudio.com/docs
-[python]: [https://www.python.org/doc/]
+[python]: https://www.python.org/doc/
 [django]: https://docs.djangoproject.com/en/3.1/
 [html]: https://devdocs.io/html/
 [css]: https://devdocs.io/css/
