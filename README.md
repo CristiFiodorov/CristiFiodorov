@@ -15,15 +15,20 @@
 [<img align="left" alt="Arduino" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />][arduino]
 
 <br />
+<br />
 
 <summary>:zap: Github Stats</summary>
 
 <img align="left" alt="Cristian's Github Stats" src="https://github-readme-stats-kappa-one.vercel.app/api?username=CristiFiodorov&show_icons=true&hide_border=true" />
 
 <br />
+<br />
 
 <summary>:zap: Top Langs</summary>
 <img align="left" alt="Cristian's Github Stats" src="https://github-readme-stats-kappa-one.vercel.app/api/top-langs/?username=CristiFiodorov&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)" /> 
+
+<br />
+<br />
 
 [visualstudiocode]: https://code.visualstudio.com/docs
 [python]: https://www.python.org/doc/
