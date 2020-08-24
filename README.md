@@ -15,6 +15,7 @@
 
 <br />
 <br />
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CristiFiodorov)](https://github.com/CristiFiodorov/github-readme-stats)
 
 [visualstudiocode]: https://code.visualstudio.com/docs
 [python]: https://www.python.org/doc/
