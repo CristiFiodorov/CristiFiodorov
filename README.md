@@ -31,7 +31,7 @@
 <summary>:zap: Top Langs</summary>
 
 <!-- <img align="left" alt="Cristian's Top Langs" src="https://github-readme-stats-kappa-one.vercel.app/api/top-langs/?username=CristiFiodorov&show_icons=true&hide_border=true" /> -->
-![Top Langs](https://github-readme-stats-kappa-one.vercel.app/api/top-langs/?username=CristiFiodorov&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats-kappa-one.vercel.app/api/top-langs/?username=CristiFiodorov&hide_border=true)
 
 <br />
 <br />
