@@ -20,6 +20,10 @@
 
 <img align="left" alt="Cristian's Github Stats" src="https://github-readme-stats-kappa-one.vercel.app/api?username=CristiFiodorov&show_icons=true&hide_border=true" />
 
+<br />
+<br />
+[![Top Langs](https://github-readme-stats-kappa-one.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [visualstudiocode]: https://code.visualstudio.com/docs
 [python]: https://www.python.org/doc/
