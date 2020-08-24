@@ -18,9 +18,9 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src=https://github-readme-stats-kappa-one.vercel.app/api?username=CristiFiodorov&show_icons=true&hide_border=true" />
+  <img align="left" alt="Cristian's Github Stats" src="https://github-readme-stats-kappa-one.vercel.app/api?username=CristiFiodorov&show_icons=true&hide_border=true" />
 </details>
-  
+
 [visualstudiocode]: https://code.visualstudio.com/docs
 [python]: https://www.python.org/doc/
 [django]: https://docs.djangoproject.com/en/3.1/
