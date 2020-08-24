@@ -15,11 +15,11 @@
 
 <br />
 <br />
-<details>
-  <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Cristian's Github Stats" src="https://github-readme-stats-kappa-one.vercel.app/api?username=CristiFiodorov&show_icons=true&hide_border=true" />
-</details>
+<summary>:zap: Github Stats</summary>
+
+<img align="left" alt="Cristian's Github Stats" src="https://github-readme-stats-kappa-one.vercel.app/api?username=CristiFiodorov&show_icons=true&hide_border=true" />
+
 
 [visualstudiocode]: https://code.visualstudio.com/docs
 [python]: https://www.python.org/doc/
