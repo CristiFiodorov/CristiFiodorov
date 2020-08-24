@@ -23,7 +23,7 @@
 <br />
 <br />
 <summary>:zap: Top Langs</summary>
-<img align="left" alt="Cristian's Github Stats" src="https://github-readme-stats-kappa-one.vercel.app/api/top-langs/?username=CristiFiodorov&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)" />
+<img align="right" alt="Cristian's Github Stats" src="https://github-readme-stats-kappa-one.vercel.app/api/top-langs/?username=CristiFiodorov&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)" />
 
 [visualstudiocode]: https://code.visualstudio.com/docs
 [python]: https://www.python.org/doc/
