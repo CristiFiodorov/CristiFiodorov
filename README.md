@@ -19,24 +19,6 @@
 
 ----
 
-<summary>:zap: Github Stats</summary>
-
-![Cristian's github stats](https://github-readme-stats-kappa-one.vercel.app/api?username=CristiFiodorov&show_icons=true&hide_border=true)
-
-<br />
-<br />
-
----
-
-<summary>:zap: Top Langs</summary>
-
-
-![Top Langs](https://github-readme-stats-kappa-one.vercel.app/api/top-langs/?username=CristiFiodorov&hide_border=true)
-
-<br />
-<br />
-
-
 [visualstudiocode]: https://code.visualstudio.com/docs
 [python]: https://www.python.org/doc/
 [django]: https://docs.djangoproject.com/en/3.1/
